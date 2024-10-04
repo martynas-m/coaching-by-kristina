@@ -1,0 +1,7 @@
+# About me
+
+I have spent over 15 years in the field of adult learning and development, leadership development, and management consulting. Through this experience, I have concluded that coaching is an excellent way to foster personal and professional growth. For me, coaching is an art that combines building relationships and creating opportunities. During your coaching sessions, I aim to establish a partnership with clients, providing a safe space for them to explore new ideas, discover meaningful insights, and access resources for initiating change. This is my approach in both individual and team coaching.
+
+My core values, as a coach, are curiosity, respect, empathy, openness, commitment, and ethics. I offer coaching services in both English and Lithuanian.
+
+I hold an [ACC](https://experiencecoaching.com/is-a-coaching-credential-really-that-big-of-a-deal/){target="_blank"} (Associate Certified Coach) credential from the International Coaching Federation, which certifies that I have a certain level of competency and knowledge through various requirements, including a coach-specific training of 60 hours minimum, coaching practice of 100 hours minimum, and successful completion of the ICF credentialing exam. In my work I adhere to the [ICF Code of Ethics](https://coachingfederation.org/ethics/code-of-ethics){target="_blank"}.

@@ -1,0 +1,106 @@
+@import './colors.css';
+
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5em;
+  font-weight: 300;
+  font-size: 1.3em;
+
+  color-scheme: light dark;
+  color: var(--primary-color);
+  background-color: var(--main-background-color);
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  --max-width: 1210px;
+}
+
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 100px;
+}
+
+main {
+  scroll-behavior: smooth;
+  scroll-padding-top: 100px;
+}
+
+body {
+  scroll-behavior: smooth;
+  scroll-padding-top: 100px;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  row-gap: 1.5em;
+  place-items: center;
+  /*
+  max-width: var(--max-width);
+  */
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+button {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5em;
+  font-weight: 300;
+  font-size: 1.3em;
+  border-radius: 8px;
+  border: 1px solid transparent;
+  padding: 0.6em 1.2em;
+  background-color: var(--button-background);
+  color: var(--c-red-300);
+  cursor: pointer;
+  transition: border-color 0.25s;
+}
+
+button:hover {
+  border-color: #646cff;
+}
+
+button:focus,
+button:focus-visible {
+  outline: 4px auto -webkit-focus-ring-color;
+}
+
+section,
+header {
+  width: 100%;
+  max-width: var(--max-width);
+  background-color: var(--background-row-1);
+}
+
+section {
+  padding: 1.2em 0;
+}
+
+h1,
+h2,
+p {
+  padding: 0 1.2rem;
+}
+
+article>p:first-of-type {
+  margin-top: 0;
+}
+
+section h1 {
+  text-align: left;
+  font-size: 2.3em;
+  font-weight: 300;
+}
+
+section h2 {
+  font-size: 1.5em;
+  font-weight: 300;
+  text-align: left;
+}
+
+a,
+a:visited {
+  text-decoration: none;
+  font-weight: 400;
+  color: var(--primary-color);
+}

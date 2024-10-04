@@ -1,0 +1,9 @@
+- calendar button font
+- services h1 remove
+- round badges -> susipazinkime
+- paslaugu sertifikatus į šonus
+- menu -> right
+- language kaip menu punktą
+- paslaugos atskirti linija
+- klientu atsilipimai - po susipažinkime 3 dalių columnai
+
