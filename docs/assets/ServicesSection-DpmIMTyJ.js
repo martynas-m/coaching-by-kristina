@@ -1,4 +1,4 @@
-import{_ as f,u as y,M as b,c as l,r as w,a as d,b as a,d as i,e as _,F as j,o as m}from"./index-9SI6ivVq.js";const g="/coaching-by-kristina/assets/icf-credential-AJxZvstd.png",h="/coaching-by-kristina/assets/gtci-graduation-CJIluMDt.png",p="/coaching-by-kristina/assets/systemic-team-coaching-ClOepqur.png",I=`## Individualus koučingas​
+import{_ as f,u as y,M as b,c as l,r as w,a as d,b as a,d as i,e as _,F as j,o as m}from"./index-C0QjT53v.js";const g="/coaching-by-kristina/assets/icf-credential-AJxZvstd.png",h="/coaching-by-kristina/assets/gtci-graduation-CJIluMDt.png",p="/coaching-by-kristina/assets/systemic-team-coaching-ClOepqur.png",I=`## Individualus koučingas​
 
 Koučingo procese aptarsime jums svarbius siekius bei tikslus ir ieškosime būdų jiems pasiekti.  
 
