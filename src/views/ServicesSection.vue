@@ -10,6 +10,7 @@
     </article>
     <hr />
     <article class="team">
+      <aside v-html="team" />
       <img
         :src="gtci"
         alt="gtci graduation certificate"
@@ -20,7 +21,6 @@
         alt="systematic team coaching graduation certificate"
         @click="showFull(systematicTeamCoaching)"
       />
-      <aside v-html="team" />
     </article>
   </section>
   <div v-if="showImage" id="full-size" @mousedown="() => (showImage = false)">
@@ -62,6 +62,12 @@ const showFull = (image) => {
 </script>
 
 <style>
+.team {
+  flex-wrap: wrap;
+}
+.team > aside {
+  flex-grow: 2;
+}
 .individual p,
 .team p {
   text-align: justify;
@@ -131,7 +137,7 @@ hr {
     align-items: center;
   }
   .team {
-    flex-direction: column-reverse;
+    flex-direction: column;
     align-items: center;
   }
   .individual > img {
